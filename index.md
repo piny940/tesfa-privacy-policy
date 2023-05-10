@@ -1,7 +1,7 @@
-# Privacy policy for Chrome extensions developed by ichigo-macaron
+# Privacy policy for Chrome extensions developed by piny940
 ## Chrome拡張のプライバシーポリシー
 
-本プライバシーポリシーは、いちごまかろん（以下、「当開発者」）が開発したGoogleChromeの拡張機能(Tesfa)(以下、「拡張機能」とします。)の利用において、利用者の個人情報もしくはそれに準ずる情報を取り扱う際に、当開発者が遵守する方針を示したものです。
+本プライバシーポリシーは、piny940（以下、「当開発者」）が開発したGoogleChromeの拡張機能(Kokosuki stamp)(以下、「拡張機能」とします。)の利用において、利用者の個人情報もしくはそれに準ずる情報を取り扱う際に、当開発者が遵守する方針を示したものです。
 
 ### 基本方針
 当開発者は、個人情報の重要性を認識し、個人情報を保護することが社会的責務であると考え、個人情報に関する法令を遵守し、拡張機能で取扱う個人情報の取得、利用、管理を適正に行います。
@@ -53,7 +53,7 @@ LocalStorageには保存期間が存在しないためデータの保存期間�
 #### 問い合わせ先
 拡張機能、又は個人情報の取扱いに関しては、下記のメールアドレスにてお問い合わせください。
 
-メールアドレス：poyopoyopoporon@gmail.com
+メールアドレス：ichigo.macaron.dev@gmail.com
 
 ## 策定日
 令和4年3月18日　策定
